@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "82662815611",
+    "project_id": "chatting-learn",
+    "storage_bucket": "chatting-learn.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82662815611:android:a71d0b6c5b92a76e272fde",
+        "android_client_info": {
+          "package_name": "com.example.chatting_learn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzH1El7AYJonyb4O9oDdxI8GmqeBlXCqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
