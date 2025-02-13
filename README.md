@@ -29,13 +29,13 @@ For help getting started with Flutter development, view the [online documentatio
 ## Screenshots
 
 ### Login Screen
-![Login Screen](login1.jpeg)
-![Login Screen](login2.jpeg)
-![Loding Screen](loding.jpeg)
+![Login Screen](login1.jpeg)   ![Login Screen](login2.jpeg)   ![Loding Screen](loding.jpeg)
+
+
 ### Signup Screen
 ![Signup Screen](signup1.jpeg)
 
 ### Chat Screen
-![Chat Screen](chat1.jpeg)
-![Chat Screen](massage1.jpeg)
-![Chat Screen](massag2.jpeg)
+![Chat Screen](chat1.jpeg)   ![Chat Screen](massage1.jpeg)   ![Chat Screen](massag2.jpeg)
+
+
