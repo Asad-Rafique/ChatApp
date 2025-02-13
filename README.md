@@ -36,6 +36,6 @@ For help getting started with Flutter development, view the [online documentatio
 ![Signup Screen](signup1.jpeg)
 
 ### Chat Screen
-![Chat Screen](chat1)
-![Chat Screen](massage1)
-![Chat Screen](massag2)
+![Chat Screen](chat1.jpeg)
+![Chat Screen](massage1.jpeg)
+![Chat Screen](massag2.jpeg)
