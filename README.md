@@ -30,6 +30,12 @@ For help getting started with Flutter development, view the [online documentatio
 
 ### Login Screen
 ![Login Screen](login1.jpeg)
+![Login Screen](login2.jpeg)
+![Loding Screen](loding.jpeg)
+### Signup Screen
+![Signup Screen](signup1.jpeg)
 
 ### Chat Screen
-![Chat Screen](assets/screenshots/chat_screen.png)
+![Chat Screen](chat1)
+![Chat Screen](massage1)
+![Chat Screen](massag2)
